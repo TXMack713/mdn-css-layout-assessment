@@ -48,6 +48,7 @@ nav {
   padding: 0.5em;
   position: sticky;
   position: -webkit-sticky;
+  top: 0;
 }
 
 nav ul {
@@ -55,16 +56,12 @@ nav ul {
   padding: 0;
   list-style: none;
   line-height: 1.5;
-  position: sticky;
-  position: -webkit-sticky;
 }
 
 nav a {
   color: #fff;
   text-decoration: none;
   padding: 0.5em 1em;
-  position: sticky;
-  position: -webkit-sticky;
 }
 
 .photos {
